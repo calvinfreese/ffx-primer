@@ -1,0 +1,82 @@
+{
+    "locations": [
+        {
+            "name": "Besaid",
+            "on_conquest": {
+                "monster_name": "Stratoavis"
+            }
+        },
+        {
+            "name": "Kilika",
+            "on_conquest": {
+                "monster_name": "Malboro Menace"
+            }
+        },
+        {
+            "name": "Mi'ihen Highroad",
+            "on_conquest": {
+                "monster_name": "Kottos"
+            }
+        },
+        {
+            "name": "Mushroom Rock Road",
+            "on_conquest": {
+                "monster_name": "Coeurlregina"
+            }
+        },
+        {
+            "name": "Djose Road",
+            "on_conquest": {
+                "monster_name": "Jormungand"
+            }
+        },
+        {
+            "name": "Thunder Plains",
+            "on_conquest": {
+                "monster_name": "Cactuar King"
+            }
+        },
+        {
+            "name": "Macalania Woods",
+            "on_conquest": {
+                "monster_name": "Espada"
+            }
+        },
+        {
+            "name": "Bikanel Island",
+            "on_conquest": {
+                "monster_name": "Abyss Worm"
+            }
+        },
+        {
+            "name": "Calm Lands",
+            "on_conquest": {
+                "monster_name": "Chimerageist"
+            }
+        },
+        {
+            "name": "Cavern of the Stolen Fayth",
+            "on_conquest": {
+                "monster_name": "Don Tonberry"
+            }
+        },
+        {
+            "name": "Mt. Gagazet",
+            "on_conquest": {
+                "monster_name": "Catoblepas"
+            }
+        },
+        {
+            "name": "Inside Sin",
+            "on_conquest": {
+                "monster_name": "Abaddon"
+            }
+        },
+        {
+            "name": "Omega Ruins",
+            "on_conquest": {
+                "monster_name": "Vorban"
+            }
+        }
+    ]
+}

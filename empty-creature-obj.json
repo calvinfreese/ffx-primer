@@ -1,0 +1,32 @@
+{
+    "name": "",
+    "type": "",
+    "location": "Calm Lands",
+    "hp": 0,
+    "stealables": [
+        {
+            "item": "",
+            "rarity": "common"
+        },
+        {
+            "item": "",
+            "rarity": "rare"
+        }
+    ],
+    "drops": [
+        {
+            "item": "",
+            "rarity": "common"
+        },
+        {
+            "item": "",
+            "rarity": "rare"
+        }
+    ],
+    "amount_caught": 0,
+    "lancet_skill": "",
+    "pre_req": {
+        "name": "",
+        "amount_needed": 0
+    }
+}
