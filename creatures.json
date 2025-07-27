@@ -1,0 +1,2936 @@
+{
+    "creatures": [
+        {
+            "name": "Dingo",
+            "type": "Lupine",
+            "location": "Besaid Island",
+            "hp": 125,
+            "stealables": [
+                {
+                    "item": "Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Sleeping Powder",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [                
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Fenrir",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Condor",
+            "type": "Bird",
+            "location": "Besaid Island",
+            "hp": 95,
+            "stealables": [
+                {
+                    "item": "Phoenix Down",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Smoke Bomb",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Pteryx",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Water Flan",
+            "type": "Flan",
+            "location": "Besaid Island",
+            "hp": 315,
+            "stealables": [
+                {
+                    "item": "Fish Scale",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Dragon Scales",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Jumbo Flan",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Dinonix",
+            "type": "Reptile",
+            "location": "Kilika",
+            "hp": 140,
+            "stealables": [
+                {
+                    "item": "Soft",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Petrify Grenade",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Power Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Ornitholestes",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Killer Bee",
+            "type": "Wasp",
+            "location": "Kilika",
+            "hp": 110,
+            "stealables": [
+                {
+                    "item": "Antidote",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Poison Fang",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Hornet",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Yellow Element",
+            "type": "Element",
+            "location": "Kilika",
+            "hp": 300,
+            "stealables": [
+                {
+                    "item": "Electro Marble",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lightning Marble",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Nega Elemental",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Ragora",
+            "type": "Plant",
+            "location": "Kilika",
+            "hp": 780,
+            "stealables": [
+                {
+                    "item": "Antidote",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Remedy",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Seed Cannon"
+        },
+        {
+            "name": "Mi'ihen Fang",
+            "type": "Lupine",
+            "location": "Mi'ihen Highroad",
+            "hp": 160,
+            "stealables": [
+                {
+                    "item": "Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Sleeping Powder",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Fenrir",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Ipiria",
+            "type": "Reptile",
+            "location": "Mi'ihen Highroad",
+            "hp": 180,
+            "stealables": [
+                {
+                    "item": "Soft",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Petrify Grenade",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Power Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Ornitholestes",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Floating Eye",
+            "type": "Winged Eye",
+            "location": "Mi'ihen Highroad",
+            "hp": 140,
+            "stealables": [
+                {
+                    "item": "Echo Screen",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Musk",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "One Eye",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "White Elemental",
+            "type": "Element",
+            "location": "Mi'ihen Highroad",
+            "hp": 390,
+            "stealables": [
+                {
+                    "item": "Antarctic Wind",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Antarctic Wind (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Nega Elemental",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Raldo",
+            "type": "Armored",
+            "location": "Mi'ihen Highroad",
+            "hp": 240,
+            "stealables": [
+                {
+                    "item": "Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Hypello Potion",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Tanket",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Vouivre",
+            "type": "Drake",
+            "location": "Mi'ihen Highroad",
+            "hp": 255,
+            "stealables": [
+                {
+                    "item": "Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Silver Hourglass",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Fafnir",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Bomb",
+            "type": "Bomb",
+            "location": "Mi'ihen Highroad",
+            "hp": 850,
+            "stealables": [
+                {
+                    "item": "Bomb Fragment (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Bomb Fragment (x3)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Self-Destruct",
+            "pre_req": {
+                "name": "Bomb King",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Dual Horn",
+            "type": "Ruminent",
+            "location": "Mi'ihen Highroad",
+            "hp": 1875,
+            "stealables": [
+                {
+                    "item": "Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Ability Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Fire Breath",
+            "pre_req": {
+                "name": "Juggernaut",
+                "amount_needed": 5
+            }
+        },        
+        {
+            "name": "Raptor",
+            "type": "Reptile",
+            "location": "Mushroom Rock Road",
+            "hp": 200,
+            "stealables": [
+                {
+                    "item": "Soft",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Petrify Grenade",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                },                
+                {
+                    "item": "Power Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Ornitholestes",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Gandarewa",
+            "type": "Imp",
+            "location": "Mushroom Rock Road",
+            "hp": 148,
+            "stealables": [
+                {
+                    "item": "Electro Marble",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Electro Marble (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Vidatu",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Thunder Flan",
+            "type": "Flan",
+            "location": "Mushroom Rock Road",
+            "hp": 450,
+            "stealables": [
+                {
+                    "item": "Electro Marble",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Electro Marble (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Jumbo Flan",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Red Element",
+            "type": "Element",
+            "location": "Mushroom Rock Road",
+            "hp": 450,
+            "stealables": [
+                {
+                    "item": "Bomb Fragment",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Bomb Fragment (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Nega Elemental",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Lamashtu",
+            "type": "Drake",
+            "location": "Mushroom Rock Road",
+            "hp": 275,
+            "stealables": [
+                {
+                    "item": "Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Silver Hourglass",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Fafnir",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Funguar",
+            "type": "Fungii",
+            "location": "Mushroom Rock Road",
+            "hp": 540,
+            "stealables": [
+                {
+                    "item": "Silence Grenade",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Ether",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Sleep Sprout",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Garuda",
+            "type": "Flying",
+            "location": "Mushroom Rock Road",
+            "hp": 1400,
+            "stealables": [
+                {
+                    "item": "Smoke Bomb",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Smoke Bomb (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0
+        },
+        {
+            "name": "Garm",
+            "type": "Lupine",
+            "location": "Djose Road",
+            "hp": 240,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Sleeping Powder",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Fenrir",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Simurgh",
+            "type": "Bird",
+            "location": "Djose Road",
+            "hp": 200,
+            "stealables": [
+                {
+                    "item": "Smoke Bomb",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Smoke Bomb (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Pteryx",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Bite Bug",
+            "type": "Wasp",
+            "location": "Djose Road",
+            "hp": 200,
+            "stealables": [
+                {
+                    "item": "Antidote",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Poison Fang",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Hornet",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Snow Flan",
+            "type": "Flan",
+            "location": "Djose Road",
+            "hp": 600,
+            "stealables": [
+                {
+                    "item": "Antarctic Wind",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Antarctic Wind (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Mana Sphere (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Jumbo Flan",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Bunyip",
+            "type": "Armored",
+            "location": "Djose Road",
+            "hp": 400,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Hypello Potion",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "pre_req": {
+                "name": "Tanket",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Basilisk",
+            "type": "Basilisk",
+            "location": "Djose Road",
+            "hp": 2025,
+            "stealables": [
+                {
+                    "item": "Petrify Grenade",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Petrify Grenade",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Ability Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Ability Sphere (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Stone Breath"
+        },
+        {
+            "name": "Ochu",
+            "type": "Plant",
+            "location": "Djose Road",
+            "hp": 7200,
+            "stealables": [
+                {
+                    "item": "Remedy",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Remedy (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Mana Sphere (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Melusine",
+            "type": "Reptile",
+            "location": "Thunder Plains",
+            "hp": 265,
+            "stealables": [
+                {
+                    "item": "Soft",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Petrify Grenade",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Power Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Ornitholestes",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Aerogue",
+            "type": "Imp",
+            "location": "Thunder Plains",
+            "hp": 200,
+            "stealables": [
+                {
+                    "item": "Electro Marble",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lightning Marble",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Vidatu",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Buer",
+            "type": "Winged Eye",
+            "location": "Thunder Plains",
+            "hp": 230,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Musk",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "One Eye",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Gold Element",
+            "type": "Element",
+            "location": "Thunder Plains",
+            "hp": 1200,
+            "stealables": [
+                {
+                    "item": "Electro Marble",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Electro Marble (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Nega Elemental",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Kusariqqu",
+            "type": "Drake",
+            "location": "Thunder Plains",
+            "hp": 445,
+            "stealables": [
+                {
+                    "item": "Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Silver Hourglass",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Fafnir",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Larva",
+            "type": "Larvae",
+            "location": "Thunder Plains",
+            "hp": 1498,
+            "stealables": [
+                {
+                    "item": "Lunar Curtain",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lunar Curtain (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Ability Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Iron Giant",
+            "type": "Iron Giant",
+            "location": "Thunder Plains",
+            "hp": 3600,
+            "stealables": [
+                {
+                    "item": "Light Curtain",
+                    "rarity": "common"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Power Sphere (x3)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Ironclad",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Qactuar",
+            "type": "Cactuar",
+            "location": "Thunder Plains",
+            "hp": 500,
+            "stealables": [
+                {
+                    "item": "Chocobo Feather",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Chocobo Wing",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Speed Sphere (x3)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": ""
+        },
+        {
+            "name": "Snow Wolf",
+            "type": "Lupine",
+            "location": "Macalania",
+            "hp": 400,
+            "stealables": [
+                {
+                    "item": "Sleeping Powder",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Sleeping Powder (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Fenrir",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Iguion",
+            "type": "Reptile",
+            "location": "Macalania",
+            "hp": 370,
+            "stealables": [
+                {
+                    "item": "Soft",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Petrify Grenade",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Power Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Ornitholestes",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Wasp",
+            "type": "Wasp",
+            "location": "Macalania",
+            "hp": 360,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Poison Fang",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Hornet",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Evil Eye",
+            "type": "Winged Eye",
+            "location": "Macalania",
+            "hp": 310,
+            "stealables": [
+                {
+                    "item": "Musk",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Musk (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "One Eye",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Ice Flan",
+            "type": "Flan",
+            "location": "Macalania",
+            "hp": 1350,
+            "stealables": [
+                {
+                    "item": "Arctic Wind",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Arctic Wind (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Jumbo Flan",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Blue Element",
+            "type": "Element",
+            "location": "Macalania",
+            "hp": 1500,
+            "stealables": [
+                {
+                    "item": "Fish Scale (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Fish Scale (x3)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Nega Elemental",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Murussu",
+            "type": "Armored",
+            "location": "Macalania",
+            "hp": 580,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Hypello Potion",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Tanket",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Mafdet",
+            "type": "Armored",
+            "location": "Macalania",
+            "hp": 710,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Hypello Potion",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Tanket",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Xiphos",
+            "type": "Arachnid",
+            "location": "Macalania",
+            "hp": 2700,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Mega Potion",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Ability Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Chimera",
+            "type": "Chimera",
+            "location": "Macalania",
+            "hp": 5250,
+            "stealables": [
+                {
+                    "item": "Arctic Wind (x3)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lightning Marble (x3)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Ability Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Ability Sphere (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Aqua Breath",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Sand Wolf",
+            "type": "Lupine",
+            "location": "Bikanel",
+            "hp": 450,
+            "stealables": [
+                {
+                    "item": "Sleeping Powder",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Sleeping Powder (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Al Bhed Potion",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Fenrir",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Alcyone",
+            "type": "Bird",
+            "location": "Bikanel",
+            "hp": 430,
+            "stealables": [
+                {
+                    "item": "Smoke Bomb",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Smoke Bomb (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Al Bhed Potion",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Pteryx",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Mushussu",
+            "type": "Drake",
+            "location": "Bikanel",
+            "hp": 680,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Silver Hourglass",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Al Bhed Potion",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Fafnir",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Zu",
+            "type": "Flying",
+            "location": "Bikanel",
+            "hp": 18000,
+            "stealables": [
+                {
+                    "item": "Smoke Bomb (x3)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Smoke Bomb (x4)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "",
+                    "rarity": "common"
+                },
+                {
+                    "item": "",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Sand Worm",
+            "type": "Worm",
+            "location": "Bikanel",
+            "hp": 45000,
+            "stealables": [
+                {
+                    "item": "Shadow Gem (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Stamina Spring (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Ability Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lv. 1 Key Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Cactuar",
+            "type": "Cactuar",
+            "location": "Bikanel",
+            "hp": 800,
+            "stealables": [
+                {
+                    "item": "Chocobo Feather",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Chocobo Wing",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Speed Sphere (x3)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Skoll",
+            "type": "Lupine",
+            "location": "Calm Lands",
+            "hp": 1000,
+            "stealables": [
+                {
+                    "item": "Dream Powder",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Dream Powder (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Fenrir",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Nebiros",
+            "type": "Wasp",
+            "location": "Calm Lands",
+            "hp": 700,
+            "stealables": [
+                {
+                    "item": "Poison Fang",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Poison Fang (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Hornet",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Flame Flan",
+            "type": "Flan",
+            "location": "Calm Lands",
+            "hp": 1500,
+            "stealables": [
+                {
+                    "item": "Fire Gem",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Fire Gem (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Jumbo Flan",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Shred",
+            "type": "Armored",
+            "location": "Calm Lands",
+            "hp": 1950,
+            "stealables": [
+                {
+                    "item": "Hypello Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Hypello Potion (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Tanket",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Anacondaur",
+            "type": "Basilisk",
+            "location": "Calm Lands",
+            "hp": 5800,
+            "stealables": [
+                {
+                    "item": "Petrify Grenade",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Petrify Grenade (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Stone Gaze",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Ogre",
+            "type": "Ogre",
+            "location": "Calm Lands",
+            "hp": 9400,
+            "stealables": [
+                {
+                    "item": "Stamina Spring",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Stamina Spring (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Coeurl",
+            "type": "Coeurl",
+            "location": "Calm Lands",
+            "hp": 6000,
+            "stealables": [
+                {
+                    "item": "Mana Spring",
+                    "rarity": "common"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Mana Sphere (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Chimera Brain",
+            "type": "Chimera",
+            "location": "Calm Lands",
+            "hp": 9800,
+            "stealables": [
+                {
+                    "item": "Ice Gem",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lightning Gem (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Ability Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Aqua Breath",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Malboro",
+            "type": "Malboro",
+            "location": "Calm Lands",
+            "hp": 27000,
+            "stealables": [
+                {
+                    "item": "Remedy",
+                    "rarity": "common"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Yowie",
+            "type": "Reptile",
+            "location": "Cavern of the Stolen Fayth",
+            "hp": 900,
+            "stealables": [
+                {
+                    "item": "Soft",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Petrify Grenade",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Power Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Ornitholestes",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Imp",
+            "type": "Imp",
+            "location": "Cavern of the Stolen Fayth",
+            "hp": 880,
+            "stealables": [
+                {
+                    "item": "Lightning Gem",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lightning Gem (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Vidatu",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Dark Element",
+            "type": "Element",
+            "location": "Cavern of the Stolen Fayth",
+            "hp": 1800,
+            "stealables": [
+                {
+                    "item": "Shining Thorn",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Shining Thorn (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Nega Elemental",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Nidhogg",
+            "type": "Drake",
+            "location": "Cavern of the Stolen Fayth",
+            "hp": 2000,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Gold Hourglass",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Fafnir",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Thorn",
+            "type": "Fungii",
+            "location": "Cavern of the Stolen Fayth",
+            "hp": 4080,
+            "stealables": [
+                {
+                    "item": "Silence Grenade (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Ether",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Sleep Sprout",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Valaha",
+            "type": "Ruminent",
+            "location": "Cavern of the Stolen Fayth",
+            "hp": 8700,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Hi-Potion (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Ability Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Fire Breath",
+            "pre_req": {
+                "name": "Juggernaut",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Epaaj",
+            "type": "Arachnid",
+            "location": "Cavern of the Stolen Fayth",
+            "hp": 8700,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Hi-Potion (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Ability Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Ghost",
+            "type": "Ghost",
+            "location": "Cavern of the Stolen Fayth",
+            "hp": 9999,
+            "stealables": [
+                {
+                    "item": "Phoenix Down",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Farplane Shadow",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Doom",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Tonberry",
+            "type": "Tonberry",
+            "location": "Cavern of the Stolen Fayth",
+            "hp": 13500,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Farplane Shadow",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lv. 2 Key Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Bandersnatch",
+            "type": "Lupine",
+            "location": "Mt. Gagazet",
+            "hp": 1800,
+            "stealables": [
+                {
+                    "item": "Dream Powder (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Dream Powder (x3)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Fenrir",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Ahriman",
+            "type": "Winged Eye",
+            "location": "Mt. Gagazet",
+            "hp": 2800,
+            "stealables": [
+                {
+                    "item": "Musk (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Musk (x3)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "One Eye",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Dark Flan",
+            "type": "Flan",
+            "location": "Mt. Gagazet",
+            "hp": 12800,
+            "stealables": [
+                {
+                    "item": "Star Curtain",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Star Curtain (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Mana Sphere (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "White Wind",
+            "pre_req": {
+                "name": "Jumbo Flan",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Grenade",
+            "type": "Bomb",
+            "location": "Mt. Gagazet",
+            "hp": 7500,
+            "stealables": [
+                {
+                    "item": "Fire Gem (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Fire Gem (x3)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Self-Destruct",
+            "pre_req": {
+                "name": "Bomb King",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Grat",
+            "type": "Plant",
+            "location": "Mt. Gagazet",
+            "hp": 7500,
+            "stealables": [
+                {
+                    "item": "Antidote",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Remedy",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Seed Cannon",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Grendel",
+            "type": "Ruminent",
+            "location": "Mt. Gagazet",
+            "hp": 9500,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Mega Potion (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Ability Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Ability Sphere (x2)" ,
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Fire Breath",
+            "pre_req": {
+                "name": "Juggernaut",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Bashura",
+            "type": "Ogre",
+            "location": "Mt. Gagazet",
+            "hp": 17000,
+            "stealables": [
+                {
+                    "item": "Soul Spring",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Soul Spring (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Power Sphere (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Mandragora",
+            "type": "Plant",
+            "location": "Mt. Gagazet",
+            "hp": 31000,
+            "stealables": [
+                {
+                    "item": "Remedy (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Remedy (x3)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Behemoth",
+            "type": "Behemoth",
+            "location": "Mt. Gagazet",
+            "hp": 23000,
+            "stealables": [
+                {
+                    "item": "Ether",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Mana Tablet",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Mighty Guard",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Splasher",
+            "type": "Fish",
+            "location": "Mt. Gagazet",
+            "hp": 200,
+            "stealables": [
+                {
+                    "item": "Grenades",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Grenades",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Achelous",
+            "type": "Fish",
+            "location": "Mt. Gagazet",
+            "hp": 5150,
+            "stealables": [
+                {
+                    "item": "Water Gem (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Healing Spring",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Maelspike",
+            "type": "Fish",
+            "location": "Mt. Gagazet",
+            "hp": 10000,
+            "stealables": [
+                {
+                    "item": "Water Gem (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Water Gem (x3)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Exoray",
+            "type": "Fungii",
+            "location": "Inside Sin",
+            "hp": 7400,
+            "stealables": [
+                {
+                    "item": "Silence Grenade",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Ether",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Sleep Sprout",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Wraith",
+            "type": "Ghost",
+            "location": "Inside Sin",
+            "hp": 22222,
+            "stealables": [
+                {
+                    "item": "Farplane Shadow",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Farplane Wind",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Mana Sphere (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Doom",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Gemini - Sword",
+            "type": "Iron Giant",
+            "location": "Inside Sin",
+            "hp": 36000,
+            "stealables": [
+                {
+                    "item": "Light Curtain",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Light Curtain (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Power Sphere (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Ironclad",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Gemini - Club",
+            "type": "Iron Giant",
+            "location": "Inside Sin",
+            "hp": 36000,
+            "stealables": [
+                {
+                    "item": "Light Curtain",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Light Curtain (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Power Sphere (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Ironclad",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Demonolith",
+            "type": "Fossil",
+            "location": "Inside Sin",
+            "hp": 45000,
+            "stealables": [
+                {
+                    "item": "Petrify Grenade",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Petrify Grenade (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lv. 3 Key Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Great Malboro",
+            "type": "Malboro",
+            "location": "Inside Sin",
+            "hp": 64000,
+            "stealables": [
+                {
+                    "item": "Remedy",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Mana Tonic",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Bad Breath",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Barbatos",
+            "type": "Unknown",
+            "location": "Inside Sin",
+            "hp": 95000,
+            "stealables": [
+                {
+                    "item": "Star Curtain",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Blessed Gem",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Return Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Adamantoise",
+            "type": "Tortoise",
+            "location": "Inside Sin",
+            "hp": 54400,
+            "stealables": [
+                {
+                    "item": "Healing Water",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Stamina Tablet",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Power Sphere (x5)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Behemoth King",
+            "type": "Behemoth",
+            "location": "Inside Sin",
+            "hp": 67500,
+            "stealables": [
+                {
+                    "item": "Healing Spring",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Twin Stars (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lv. 3 Key Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "Mighty Guard",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Zaurus",
+            "type": "Reptile",
+            "location": "Omega Ruins",
+            "hp": 7850,
+            "stealables": [
+                {
+                    "item": "Petrify Grenade (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Petrify Grenade (x3)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Speed Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Ornitholestes",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Floating Death",
+            "type": "Winged Eye",
+            "location": "Omega Ruins",
+            "hp": 6700,
+            "stealables": [
+                {
+                    "item": "Musk (x4)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Musk (x5)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "One Eye",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Black Element",
+            "type": "Element",
+            "location": "Omega Ruins",
+            "hp": 7600,
+            "stealables": [
+                {
+                    "item": "Hi-Potion",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Shining Gem (x4)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Return Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Nega Elemental",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Halma",
+            "type": "Armored",
+            "location": "Omega Ruins",
+            "hp": 13000,
+            "stealables": [
+                {
+                    "item": "Hypello Potion (x3)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Shadow Gem (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Power Sphere (x2)",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Tanket",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Puroboros",
+            "type": "Bomb",
+            "location": "Omega Ruins",
+            "hp": 20000,
+            "stealables": [
+                {
+                    "item": "Fire Gem (x3)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Fire Gem (x4)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lv. 1 Key Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "Bomb King",
+                "amount_needed": 5
+            }
+        },
+        {
+            "name": "Machea",
+            "type": "Arachnid",
+            "location": "Omega Ruins",
+            "hp": 18000,
+            "stealables": [
+                {
+                    "item": "Hi-Potion (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Stamnia Tonic",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lv. 3 Key Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Master Coeurl",
+            "type": "Coeurl",
+            "location": "Omega Ruins",
+            "hp": 13000,
+            "stealables": [
+                {
+                    "item": "Farplane Shadow (x2)",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Farplane Shadow (x4)",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Lv. 1 Key Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Friend Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Master Tonberry",
+            "type": "Tonberry",
+            "location": "Omega Ruins",
+            "hp": 48000,
+            "stealables": [
+                {
+                    "item": "Mana Spring",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Tetra Elemental",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Power Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Teleport Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        },
+        {
+            "name": "Varuna",
+            "type": "Unknown",
+            "location": "Omega Ruins",
+            "hp": 56000,
+            "stealables": [
+                {
+                    "item": "Farplane Wind",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Shining Gem",
+                    "rarity": "rare"
+                }
+            ],
+            "drops": [
+                {
+                    "item": "Mana Sphere",
+                    "rarity": "common"
+                },
+                {
+                    "item": "Lv. 2 Key Sphere",
+                    "rarity": "rare"
+                }
+            ],
+            "amount_caught": 0,
+            "lancet_skill": "",
+            "pre_req": {
+                "name": "",
+                "amount_needed": 0
+            }
+        }
+    ]
+}
